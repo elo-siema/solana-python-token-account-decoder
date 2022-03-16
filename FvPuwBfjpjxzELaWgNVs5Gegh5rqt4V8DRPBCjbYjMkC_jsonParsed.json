@@ -1,0 +1,19 @@
+{
+    "parsed": {
+        "info": {
+            "isNative": false,
+            "mint": "3iBns9wYVKeUcPQhfwU5gGnbF6qksnK9VMBqRGEjx5zR",
+            "owner": "21KbTRoxpKACtL7QpvsYVFueyL4SeZmZ6svXvH6tzD1f",
+            "state": "initialized",
+            "tokenAmount": {
+                "amount": "1",
+                "decimals": 0,
+                "uiAmount": 1.0,
+                "uiAmountString": "1"
+            }
+        },
+        "type": "account"
+    },
+    "program": "spl-token",
+    "space": 165
+}
